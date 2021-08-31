@@ -3,11 +3,11 @@ Perform a classification/Logistic regression analysis on the provided Churn_Bank
 
 
 The Data dictionary of this data-set are given below.
-Churn	                              Recording churn response of 0/1.
-Utilization ratio	                  Utilization ratio of customer’s deposits with the bank.
-Age	                                Age of the customers in the bank.
-Num_loans	                          Number of loans taken by the person from the bank.
-Num_dependents                      Number of dependents the person has upon himself/herself.
-MonthlyIncome                       The monthly income of the customer (in rupees).
-Num_Savings_Acccts                  Number of savings account the customer has with the bank.
-DebtRatio                           The debt ratio the person has with the bank.
+Churn	                            -  Recording churn response of 0/1.
+Utilization ratio	                 - Utilization ratio of customer’s deposits with the bank.
+Age	                               - Age of the customers in the bank.
+Num_loans	                        -  Number of loans taken by the person from the bank.
+Num_dependents                     - Number of dependents the person has upon himself/herself.
+MonthlyIncome                      - The monthly income of the customer (in rupees).
+Num_Savings_Acccts                -  Number of savings account the customer has with the bank.
+DebtRatio                         -  The debt ratio the person has with the bank.
