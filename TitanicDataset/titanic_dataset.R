@@ -1,8 +1,9 @@
 #####################################################################
-####################### Classification Case Study ####################
+####################### Classification Case Study ###################
 #####################################################################
 
-### LOGISTIC REGRESSION ###
+########################## LOGISTIC REGRESSION ######################
+#####################################################################
 
 #In case of a classification problem:  the target variable is a categorical in nature.
 #We'll be doing Logistic Regression.
